@@ -26,4 +26,4 @@ git clone https://github.com/SAMIR-CYBER-143/AUTO-DUMP
 
 cd AUTO-DUMP
 
-python S-DUMP.py
+python S-Dump.py
